@@ -28,7 +28,8 @@ Two options:
 🔹 Place `MuRedTools.exe` directly in the **server root**.  
 🔹 _(Recommended)_ Create a **MuRedTools** folder and place the executable and its related files there for better organization.
 
-![1](docs/img/img1.png)
+![Imagen](docs/img/img1.png)
+
 
 ---
 
