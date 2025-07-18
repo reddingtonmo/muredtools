@@ -28,7 +28,7 @@ Two options:
 🔹 Place `MuRedTools.exe` directly in the **server root**.  
 🔹 _(Recommended)_ Create a **MuRedTools** folder and place the executable and its related files there for better organization.
 
-![](docs/img/img1.png)
+![](Docs/img/img1.png)
 
 
 ---
@@ -41,11 +41,11 @@ Two options:
 4. Save changes.
 5. **Important:** To see the changes on the server, perform a **reload** of the monsters.
 
-![](docs/img/img2.png)
-![](docs/img/img3.png)
-![](docs/img/img4.png)
-![](docs/img/img5.png)
-![](docs/img/img6.png)
+![](Docs/img/img2.png)
+![](Docs/img/img3.png)
+![](Docs/img/img4.png)
+![](Docs/img/img5.png)
+![](Docs/img/img6.png)
 
 ---
 
@@ -101,7 +101,7 @@ Tienes dos opciones:
 🔹 Colocar el archivo `MuRedTools.exe` directamente en la **raíz del servidor**.  
 🔹 _(Recomendado)_ Crear una carpeta llamada **MuRedTools** y colocar allí el ejecutable y sus archivos asociados para una mejor organización.
 
-![](docs/img/img1.png)
+![](Docs/img/img1.png)
 
 ---
 
@@ -112,11 +112,11 @@ Tienes dos opciones:
 3. Realiza las ediciones que necesites desde la interfaz.
 4. Guarda los cambios.
 5. **Importante:** Para ver los cambios reflejados en el servidor, realiza una **recarga** de monstruos en el servidor.
-![](docs/img/img2.png)
-![](docs/img/img3.png)
-![](docs/img/img4.png)
-![](docs/img/img5.png)
-![](docs/img/img6.png)
+![](Docs/img/img2.png)
+![](Docs/img/img3.png)
+![](Docs/img/img4.png)
+![](Docs/img/img5.png)
+![](Docs/img/img6.png)
 ---
 
 ## 📌 Nota
@@ -172,7 +172,7 @@ Você tem duas opções:
 🔹 Coloque o arquivo `MuRedTools.exe` diretamente na **raiz do servidor**.  
 🔹 _(Recomendado)_ Crie uma pasta chamada **MuRedTools** e coloque o executável e seus arquivos associados lá para melhor organização.
 
-![](docs/img/img1.png)
+![](Docs/img/img1.png)
 
 ---
 
@@ -184,11 +184,11 @@ Você tem duas opções:
 4. Salve as alterações.
 5. **Importante:** Para ver as alterações no servidor, faça uma **recarregar** dos monstros no servidor.
 
-![](docs/img/img2.png)
-![](docs/img/img3.png)
-![](docs/img/img4.png)
-![](docs/img/img5.png)
-![](docs/img/img6.png)
+![](Docs/img/img2.png)
+![](Docs/img/img3.png)
+![](Docs/img/img4.png)
+![](Docs/img/img5.png)
+![](Docs/img/img6.png)
 
 ---
 
@@ -242,7 +242,7 @@ Fique de olho nas próximas versões! 🚀
 🔹 将 `MuRedTools.exe` 放在服务器的 **根目录**。  
 🔹 _(推荐)_ 创建一个名为 **MuRedTools** 的文件夹，将可执行文件和相关文件放入其中，便于管理。
 
-![](docs/img/img1.png)
+![](Docs/img/img1.png)
 
 ---
 
@@ -254,11 +254,11 @@ Fique de olho nas próximas versões! 🚀
 4. 保存更改。
 5. **重要:** 要在服务器上生效，请对怪物进行 **重新加载**。
 
-![](docs/img/img2.png)
-![](docs/img/img3.png)
-![](docs/img/img4.png)
-![](docs/img/img5.png)
-![](docs/img/img6.png)
+![](Docs/img/img2.png)
+![](Docs/img/img3.png)
+![](Docs/img/img4.png)
+![](Docs/img/img5.png)
+![](Docs/img/img6.png)
 
 ---
 
