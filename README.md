@@ -28,7 +28,7 @@ Two options:
 🔹 Place `MuRedTools.exe` directly in the **server root**.  
 🔹 _(Recommended)_ Create a **MuRedTools** folder and place the executable and its related files there for better organization.
 
-![](docs/img/img1.png)
+![1](docs/img/img1.png)
 
 ---
 
@@ -40,11 +40,11 @@ Two options:
 4. Save changes.
 5. **Important:** To see the changes on the server, perform a **reload** of the monsters.
 
-![](docs/img/img2.png)
-![](docs/img/img3.png)
-![](docs/img/img4.png)
-![](docs/img/img5.png)
-![](docs/img/img6.png)
+![2](docs/img/img2.png)
+![3](docs/img/img3.png)
+![4](docs/img/img4.png)
+![5](docs/img/img5.png)
+![6](docs/img/img6.png)
 
 ---
 
